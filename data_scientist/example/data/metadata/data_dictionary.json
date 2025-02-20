@@ -1,0 +1,18 @@
+{
+    "columns": {
+        "PassengerId": "Unique ID for each passenger",
+        "Survived": "Survival status (0 = No, 1 = Yes)",
+        "Pclass": "Ticket class (1 = 1st, 2 = 2nd, 3 = 3rd)",
+        "Name": "Passenger name",
+        "Sex": "Gender (0 = male, 1 = female)",
+        "Age": "Age of the passenger",
+        "SibSp": "Number of siblings/spouses aboard",
+        "Parch": "Number of parents/children aboard",
+        "Fare": "Ticket fare",
+        "Embarked": "Port of embarkation (0 = C, 1 = Q, 2 = S)",
+        "FamilySize": "Total family size including the passenger"
+    },
+    "source": "Kaggle Titanic Dataset",
+    "last_updated": "2024-12-24",
+    "description": "This dataset contains passenger data from the Titanic, including survival information and passenger demographics."
+}

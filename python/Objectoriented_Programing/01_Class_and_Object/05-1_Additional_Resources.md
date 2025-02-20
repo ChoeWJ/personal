@@ -1,0 +1,5 @@
+![01](../../images/Initializing_Instance_Variables/01.jpg)
+![02](../../images/Initializing_Instance_Variables/02.jpg)
+![03](../../images/Initializing_Instance_Variables/03.jpg)
+![04](../../images/Initializing_Instance_Variables/04.jpg)
+![05](../../images/Initializing_Instance_Variables/05.jpg)

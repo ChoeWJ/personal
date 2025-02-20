@@ -1,0 +1,7 @@
+![Algorithm_Evaluation_19](../../../images/Algorithm_Evaluation/19.jpg)
+![Algorithm_Evaluation_20](../../../images/Algorithm_Evaluation/20.jpg)
+![Algorithm_Evaluation_21](../../../images/Algorithm_Evaluation/21.jpg)
+![Algorithm_Evaluation_22](../../../images/Algorithm_Evaluation/22.jpg)
+![Algorithm_Evaluation_23](../../../images/Algorithm_Evaluation/23.jpg)
+![Algorithm_Evaluation_24](../../../images/Algorithm_Evaluation/24.jpg)
+![Algorithm_Evaluation_25](../../../images/Algorithm_Evaluation/25.jpg)

@@ -1,0 +1,5 @@
+![Basic_Skills_Machine_Learning_001](../../images/01_Basic_Skills_Machine_Learning/001.jpg)
+![Basic_Skills_Machine_Learning_002](../../images/01_Basic_Skills_Machine_Learning/002.jpg)
+![Basic_Skills_Machine_Learning_003](../../images/01_Basic_Skills_Machine_Learning/003.jpg)
+![Basic_Skills_Machine_Learning_004](../../images/01_Basic_Skills_Machine_Learning/004.jpg)
+![Basic_Skills_Machine_Learning_005](../../images/01_Basic_Skills_Machine_Learning/005.jpg)

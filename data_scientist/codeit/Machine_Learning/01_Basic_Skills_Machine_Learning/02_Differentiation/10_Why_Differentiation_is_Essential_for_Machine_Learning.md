@@ -1,0 +1,8 @@
+![02_Differentiation_059](../../images/02_Diffentiation/059.jpg)
+![02_Differentiation_060](../../images/02_Diffentiation/060.jpg)
+![02_Differentiation_061](../../images/02_Diffentiation/061.jpg)
+![02_Differentiation_062](../../images/02_Diffentiation/062.jpg)
+![02_Differentiation_063](../../images/02_Diffentiation/063.jpg)
+![02_Differentiation_064](../../images/02_Diffentiation/064.jpg)
+![02_Differentiation_065](../../images/02_Diffentiation/065.jpg)
+![02_Differentiation_066](../../images/02_Diffentiation/066.jpg)
