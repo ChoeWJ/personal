@@ -1,5 +1,0 @@
-![02_Differentiation_034](../../images/02_Diffentiation/034.jpg)
-![02_Differentiation_035](../../images/02_Diffentiation/035.jpg)
-![02_Differentiation_036](../../images/02_Diffentiation/036.jpg)
-![02_Differentiation_037](../../images/02_Diffentiation/037.jpg)
-![02_Differentiation_038](../../images/02_Diffentiation/038.jpg)

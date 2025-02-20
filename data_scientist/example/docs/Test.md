@@ -1,6 +1,0 @@
-![data_analysis](../example_data_analysis/001.png)
-![data_analysis](../example_data_analysis/002.png)
-![data_analysis](../example_data_analysis/003.png)
-![data_analysis](../example_data_analysis/004.png)
-![data_analysis](../example_data_analysis/005.png)
-![data_analysis](../example_data_analysis/006.png)

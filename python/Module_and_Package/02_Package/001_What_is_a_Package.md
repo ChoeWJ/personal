@@ -1,5 +1,0 @@
-![Module_and_Package_035](../../images/Module_and_Package/035.jpg)
-![Module_and_Package_036](../../images/Module_and_Package/036.jpg)
-![Module_and_Package_037](../../images/Module_and_Package/037.jpg)
-![Module_and_Package_038](../../images/Module_and_Package/038.jpg)
-![Module_and_Package_039](../../images/Module_and_Package/039.jpg)

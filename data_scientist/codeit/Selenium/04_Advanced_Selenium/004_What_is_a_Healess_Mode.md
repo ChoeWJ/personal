@@ -1,1 +1,0 @@
-![Selenium_018](../../images/Selenium/018.png)
