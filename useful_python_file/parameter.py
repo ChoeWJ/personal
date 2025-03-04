@@ -2,9 +2,10 @@ import inspect
 import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
+
 class Inspector:
     """A utility class to inspect Python objects."""
-    
+
     @staticmethod
     def get_signature(obj):
         """Get the signature of a function or method."""
@@ -33,11 +34,9 @@ class Inspector:
             sig = inspect.signature(obj)
             params = []
             for name, param in sig.parameters.items():
-                params.append({
-                    "name": name,
-                    "default": param.default,
-                    "kind": param.kind
-                })
+                params.append(
+                    {"name": name, "default": param.default, "kind": param.kind}
+                )
             return params
         except ValueError:
             return "Parameters not available for this object."
@@ -60,19 +59,19 @@ class Inspector:
     @staticmethod
     def list_methods(obj):
         """List all methods of a class or an instance."""
-        if not (inspect.isclass(obj) or hasattr(obj, '__class__')):
+        if not (inspect.isclass(obj) or hasattr(obj, "__class__")):
             return "The object is not a class or an instance."
-        return [method[0] for method in inspect.getmembers(obj, predicate=inspect.ismethod)]
+        return [
+            method[0] for method in inspect.getmembers(obj, predicate=inspect.ismethod)
+        ]
 
     @staticmethod
     def list_attributes(obj):
         """List all attributes of an object."""
         return dir(obj)
-    
 
 
 inspector = Inspector()
-
 
 
 # Signature

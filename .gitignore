@@ -1,2 +1,6 @@
 personal/
 .vscode/
+
+# Added by cargo
+
+rust/projects/target/
