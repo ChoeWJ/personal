@@ -3,4 +3,4 @@ personal/
 
 # Added by cargo
 
-rust/projects/target/
+**/target/
